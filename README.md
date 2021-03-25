@@ -1,4 +1,4 @@
-### 👋 고영상 (ssang) 👋
+### 👋 Hello I'm ssang 👋
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=chris69223&show_icons=true&theme=algolia)
 - 🌱 I’m currently learning iOS
 - 📫 How to reach me: chris6923@daum.net
